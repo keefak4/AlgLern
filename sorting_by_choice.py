@@ -12,3 +12,4 @@ def slsectionSort(arr):
         smallest = find_Smallest(arr)
         newArr.append(arr.pop(smallest))
     return newArr
+ 
